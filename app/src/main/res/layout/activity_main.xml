@@ -38,6 +38,7 @@
             android:layout_margin="10dp"
             app:cardCornerRadius="8dp"
             app:cardElevation="8dp"
+            app:cardBackgroundColor="@color/white"
             tools:targetApi="lollipop">
 
             <LinearLayout
@@ -57,6 +58,7 @@
                     android:text="@string/characters"
                     android:textStyle="bold"
                     android:textSize="20sp"
+                    android:textColor="@color/black"
                     android:textAlignment="center"/>
 
             </LinearLayout>
@@ -76,6 +78,7 @@
             android:layout_margin="10dp"
             app:cardCornerRadius="8dp"
             app:cardElevation="8dp"
+            app:cardBackgroundColor="@color/white"
             tools:targetApi="lollipop">
             <LinearLayout
                 android:layout_width="wrap_content"
@@ -94,6 +97,7 @@
                     android:text="@string/students"
                     android:textStyle="bold"
                     android:textSize="20sp"
+                    android:textColor="@color/black"
                     android:textAlignment="center"/>
 
             </LinearLayout>
@@ -112,6 +116,7 @@
             android:layout_margin="10dp"
             app:cardCornerRadius="8dp"
             app:cardElevation="8dp"
+            app:cardBackgroundColor="@color/white"
             tools:targetApi="lollipop">
 
             <LinearLayout
@@ -131,6 +136,7 @@
                     android:text="@string/staff"
                     android:textStyle="bold"
                     android:textSize="20sp"
+                    android:textColor="@color/black"
                     android:textAlignment="center"/>
 
             </LinearLayout>
@@ -152,6 +158,7 @@
             android:layout_margin="10dp"
             app:cardCornerRadius="8dp"
             app:cardElevation="8dp"
+            app:cardBackgroundColor="@color/white"
             tools:targetApi="lollipop">
 
             <LinearLayout
@@ -171,6 +178,7 @@
                     android:text="@string/house"
                     android:textStyle="bold"
                     android:textSize="20sp"
+                    android:textColor="@color/black"
                     android:textAlignment="center"/>
 
             </LinearLayout>
